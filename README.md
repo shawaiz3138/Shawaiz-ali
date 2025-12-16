@@ -15,11 +15,12 @@
 ---
 
 ## 🎮 Before DevOps — Coding Journey
+
 ### 👨‍💻 Intro — Written in Code
 
-```python
+python
 class Shawaiz:
-    def _init_(self):
+    def __init__(self):
         self.name = "Shawaiz Ali"
         self.role = "Cloud & DevOps Engineer"
         self.location = "Pakistan 🇵🇰"
@@ -42,71 +43,93 @@ class Shawaiz:
 me = Shawaiz()
 me.say_hi()
 
-🎯 Areas of Expertise — Cloud & DevOps
-<p align="center"> ☁ Cloud Architecture & Design &nbsp;•&nbsp; ⚙ DevOps Automation &nbsp;•&nbsp; 🔁 CI/CD Pipeline Engineering
 
+---
 
+## 🎯 Areas of Expertise — Cloud & DevOps
+
+<p align="center">
+☁ Cloud Architecture & Design &nbsp;•&nbsp; ⚙ DevOps Automation &nbsp;•&nbsp; 🔁 CI/CD Pipeline Engineering
+<br><br>
 🏗 Infrastructure as Code (IaC) &nbsp;•&nbsp; 🐳 Containers & Kubernetes &nbsp;•&nbsp; 🔐 Cloud Security & IAM
-
-
+<br><br>
 📊 Monitoring, Logging & Reliability (SRE) &nbsp;•&nbsp; 🧠 Linux & System Engineering
+<br><br>
+🌐 Networking Fundamentals &nbsp;•&nbsp; 🚀 Scalability & High Availability
+</p>
 
+---
 
-🌐 Networking Fundamentals &nbsp;•&nbsp; 🚀 Scalability & High Availability </p>
+## 🛠 Tools & Technology Stack
 
-🛠 Tools & Technology Stack
 <div align="center">
 
-☁ Cloud Platforms
+### ☁ Cloud Platforms
 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud"/>
+### ⚙ DevOps & IaC
 
-⚙ DevOps & IaC
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
 
+### 🔁 CI/CD
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/> <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-🔁 CI/CD
+### 🧠 Languages & OS
 
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions"/>
-
-🧠 Languages & OS
-
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 </div>
 
-🚀 Featured DevOps Projects
-End-to-End CI/CD Pipelines – Jenkins & GitHub Actions automation
+---
 
-Kubernetes Microservices Deployment – Autoscaling & rolling updates
+## 🚀 Featured DevOps Projects
 
-Terraform AWS Infrastructure – VPC, EC2, IAM, Load Balancers
+- *End-to-End CI/CD Pipelines* – Jenkins & GitHub Actions automation
+- *Kubernetes Microservices Deployment* – Autoscaling & rolling updates
+- *Terraform AWS Infrastructure* – VPC, EC2, IAM, Load Balancers
+- *Dockerized Application Stack* – Multi-container orchestration
+- *Monitoring & Alerting System* – Prometheus & Grafana dashboards
+- *Cloud Security Setup* – IAM roles, policies & secrets management
+- *Linux Server Automation* – Bash scripting & cron jobs
 
-Dockerized Application Stack – Multi-container orchestration
+---
 
-Monitoring & Alerting System – Prometheus & Grafana dashboards
+## 📊 GitHub Analytics
 
-Cloud Security Setup – IAM roles, policies & secrets management
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shawaiz3138&show_icons=true&rank_icon=github&hide_border=true&theme=radical" />
+</p>
 
-Linux Server Automation – Bash scripting & cron jobs
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shawaiz3138&hide_border=true&theme=radical" />
+</p>
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shawaiz3138&show_icons=true&rank_icon=github&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shawaiz3138&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shawaiz3138&hide_border=true" /> </p>
+---
 
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DShawaiz3138%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue" width="100%" /> </p>
+## 🎞 DevOps Visuals & Fun
 
-🎞 DevOps Visuals & Fun
-<p align="center"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="260" /> <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="260" /> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" /> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="260" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="260" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" />
+</p>
 
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" /> </p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
 
+---
 
-<p align="center"> Thanks for stopping by! Passionate about cloud, automation, and building reliable systems. </p>
+<p align="center">
+  <b>Thanks for stopping by! Passionate about cloud, automation, and building reliable systems.</b>
+</p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" />
+</p>
